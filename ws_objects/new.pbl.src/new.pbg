@@ -4,4 +4,9 @@
 @end;
 @begin Objects 
  "w_1.srw" "new.pbl";
+ "w_11.srw" "new.pbl";
+ "w_111.srw" "new.pbl";
+ "w_1111.srw" "new.pbl";
+ "w_11111.srw" "new.pbl";
+ "w_111111.srw" "new.pbl";
 @end;
